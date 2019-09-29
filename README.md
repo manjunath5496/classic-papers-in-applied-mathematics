@@ -32,7 +32,9 @@
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/classic-papers-in-applied-mathematics/blob/master/cmp(18).pdf" style="text-decoration:none;">Non-Cooperative Games </a></b></li>
  
- 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/classic-papers-in-applied-mathematics/blob/master/cmp(19).pdf" style="text-decoration:none;">  A Theory of the Learnable</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/classic-papers-in-applied-mathematics/blob/master/cmp(20).pdf" style="text-decoration:none;"> Simple Mathematical Models with Very Complicated Dynamics</a></b></li>
  
  
  </ul>
