@@ -22,4 +22,17 @@
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/classic-papers-in-applied-mathematics/blob/master/cmp(13).pdf" style="text-decoration:none;"> A new polynomial-time algorithm for linear programming </a></b></li>
  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/classic-papers-in-applied-mathematics/blob/master/cmp(14).pdf" style="text-decoration:none;"> On the Movement of Small Particles Suspended in a Stationary Liquid Demanded by the Molecular-Kinetic Theory of Heat </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/classic-papers-in-applied-mathematics/blob/master/cmp(15).pdf" style="text-decoration:none;">A Mathematical Theory of Communication </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/classic-papers-in-applied-mathematics/blob/master/cmp(16).pdf" style="text-decoration:none;">A New Approach to Linear Filtering and Prediction Problems </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/classic-papers-in-applied-mathematics/blob/master/cmp(17).pdf" style="text-decoration:none;"> Deterministic Nonperiodic Flow</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/classic-papers-in-applied-mathematics/blob/master/cmp(18).pdf" style="text-decoration:none;">Non-Cooperative Games </a></b></li>
+ 
+ 
+ 
+ 
  </ul>
